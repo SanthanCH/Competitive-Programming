@@ -31,3 +31,7 @@ Follow up:
 
 Try to come up with as many solutions as you can. There are at least three different ways to solve this problem.
 Could you do it in-place with O(1) extra space?
+### Solution based on cyclic replacements
+<img src="https://leetcode.com/media/original_images/189_Rotate_Array.png" />
+Time Com:O(N)
+Space Com:O(1)
