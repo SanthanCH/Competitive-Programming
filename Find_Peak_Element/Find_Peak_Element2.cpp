@@ -1,3 +1,4 @@
+//Best Solution in O(logn) complexity
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
