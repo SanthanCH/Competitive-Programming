@@ -4,7 +4,7 @@ public:
         string s=strs[0];
         for(int i=1;i<strs.size();i++){
             string ans="";
-            for(int j=0;j<min(s.length(),strs[1].length());j++){
+            for(int j=0;j<min(s.length(),strs[i].length());j++){
                 if(s[j]==strs[i][j])
                     ans+=s[j];
                 else
